@@ -1,0 +1,15 @@
+{
+  "name": "@feedget/eslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.22.0",
+    "@typescript-eslint/parser": "^5.22.0",
+    "eslint": "^8.14.0",
+    "eslint-plugin-react": "^7.29.4",
+    "prettier": "^2.6.2"
+  }
+}

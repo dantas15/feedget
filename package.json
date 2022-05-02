@@ -1,0 +1,21 @@
+{
+  "name": "feedget",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "eslint-config",
+    "web"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w web"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "workspaces": "^0.1.0"
+  },
+  "devDependencies": {
+    "@feedget/eslint-config": "*"
+  }
+}
