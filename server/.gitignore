@@ -1,0 +1,5 @@
+# Build
+dist
+
+# Environment variables
+.env

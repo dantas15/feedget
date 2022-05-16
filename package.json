@@ -4,7 +4,8 @@
   "description": "",
   "workspaces": [
     "eslint-config",
-    "web"
+    "web",
+    "server"
   ],
   "scripts": {
     "dev": "npm run dev -w web"
@@ -16,6 +17,7 @@
     "workspaces": "^0.1.0"
   },
   "devDependencies": {
-    "@feedget/eslint-config": "*"
+    "@feedget/eslint-config": "*",
+    "typescript": "^4.6.4"
   }
 }
