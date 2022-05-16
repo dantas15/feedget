@@ -1,3 +1,6 @@
+# SQLite DB
+prisma/dev.db
+
 # Build
 dist
 
